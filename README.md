@@ -6,20 +6,30 @@ This project was developed as part of the BCA (Bachelor of Computer Applications
 
 📌 Objectives
 
-Centralize employee records in a secure database.
+Centralize employee records in a secure database. 
+
 Automate attendance, leave, and payroll management.
+
 Reduce manual errors and administrative workload.
+
 Enable role-based access for Admin, HR, and Employees.
+
 Improve internal communication using a built-in chat system.
 
 🚀 Features
 
 👤 Employee Management: Add, update, and manage employee profiles.
+
 ⏱️ Attendance Tracking: Check-in and check-out with date-wise records.
+
 🗓️ Leave Management: Apply, approve, and track employee leaves.
+
 💰 Payroll System: Automated salary calculation with tax and deductions.
+
 💬 Chat Application: Real-time communication between employees and HR.
+
 📊 Reports Generation: Payroll, attendance, and employee reports.
+
 🔐 Security: Role-based access control and secure data handling.
 
 🛠️ Technology Stack---
